@@ -13,4 +13,4 @@ Below are simple diagrams of the conditional generator and discriminator. The nu
 
 ## MNIST Epoch progression
 
-![](data/saved_images/mnist_epoch_progression.png)
+![](data/saved_images/mnist_epoch_progression.gif)
